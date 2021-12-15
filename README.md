@@ -13,5 +13,5 @@ This project present analysis results of significant data mining techniques that
 Research study revealed that logistic regression is top in classification patients with disorders with over 85% accuracy.
 
 Our problem is that we went to predict whether patients have heart disease by giving some features of users. This is important to medical fields. If such a prediction is accurate enough, We can not only avoid wrong diagnosis but also save human resources. When a patient without a heart disease is diagnosed with heart disease, he will fall into unnecessary panic and when a patient with heart disease is not diagnosed with heart disease, he will miss the best chance to cure his disease. Such wrong diagnosis is painful to both patients and hospitals. 
-With accurate prediction, we can solve the unnecessary trouble. Besides, if we will save human resource because we do not need complicated diagnosis process in hospitals.
+With accurate prediction, we can solve the unnecessary trouble. Besides, if we will save human resource because we do not need complicated diagnosis process in hospitals..
 
